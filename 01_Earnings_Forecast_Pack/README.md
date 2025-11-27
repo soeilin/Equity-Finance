@@ -16,8 +16,8 @@ Support earnings forecasting, budget variance analysis, and investor guidance pr
 7. Four-factor sensitivity matrix  
    • Occupancy  
    • Rent growth  
-   • Discount rate  
-   • Capex / maintenance intensity  
+   • Expense growth  
+   • Reference rate  
 
 ## Outputs  
 • Lease to NOI to AFFO
