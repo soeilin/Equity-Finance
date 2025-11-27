@@ -2,10 +2,6 @@
 To build a clean, scenario-based earnings model for REIT-like cashflow structures, integrating lease-level, operating, and capital assumptions.
 3-Scenario Lease→NOI→AFFO Model(Base/Bull/Bear), 4-Sensitivity Workbook(Sales Growth/occupancy/WACC/CapEx tornado), Lease Expiry Tracking Template
 
-- Key Outputs: 
-- Tech Stack: Advanced Excel (dynamic ranges, scenario control panel), Python (optional for sensitivity automation).
-
-
 ## Objective  
 3-Scenario NOI→AFFO Model with 4-variable sensitivity engine and lease expiry tracking template.
 Support earnings forecasting, budget variance analysis, and investor guidance preparation.
@@ -33,3 +29,4 @@ Support earnings forecasting, budget variance analysis, and investor guidance pr
 
 ## Skills Demonstrated  
 Cashflow mechanics, scenario logic, REIT earnings frameworks, sensitivity design.
+Advanced Excel (dynamic ranges, scenario control panel), Python (optional for sensitivity automation)
